@@ -28,8 +28,8 @@ This project is ideal for data scientists enthusiasts and anyone interested in l
 ## Steps to follow
 * Import libraries
 * Load dataset
-* Data wrangling & exploration - statistical analysis, data cleaning, understanding, visualization, checking outliers etc
-* Feature engineering & selection
+* Data wrangling & exploration - statistical analysis, data cleaning, exploration, visualization, checking outliers etc
+* Feature engineering & selection - standardizing the features
 * Training model
 * Making predictions
 * Evaluation of the model
